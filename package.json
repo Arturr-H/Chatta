@@ -1,0 +1,22 @@
+{
+  "name": "chatta",
+  "version": "1.0.0",
+  "description": "better than discord?",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arturr-H/Chatta.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Artur Hoffsummer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arturr-H/Chatta/issues"
+  },
+  "homepage": "https://github.com/Arturr-H/Chatta#readme"
+}
